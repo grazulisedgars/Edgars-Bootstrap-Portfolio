@@ -1,6 +1,6 @@
 # Edgars-Bootstrap-Portfolio
 
-##Description
+## Description
 
 Third Challenge - Edgars Bootstrap Portfolio. The further we go the more challenging it gets. This time no starter code and just set of instructions. Overall, I enjoyed working on this site even though I ran into some problems.
 
@@ -23,7 +23,7 @@ https://grazulisedgars.github.io/Edgars-Showcase-Portfolio/
 
 ## Screenshots
 
-![Alt text](images/Bootstrap1.png)
+![Alt text](images/Bootstrap3.png)
 ![Alt text](images/Bootstrap2.png)
 
 ## Licence 
