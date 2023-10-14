@@ -97,16 +97,21 @@ a:focus {
     color: whitesmoke;
 }
 
-
-
-
-
-
-
 /* Navbar troubleshoot. This line of code below was provided by ASK BCS Learning Assistant */
 @media (min-width: 992px) {
     .navbar-expand-lg .navbar-collapse {
         display: block !important;
         flex-basis: auto;
+    }
+}
+
+/* Changing some border settings for h2 on mobile screens*/
+@media only screen and (max-width:425px) {
+    .sectionHeading {
+        float: left;
+        border-bottom: 2px solid rgb(100, 149, 237);
+        border-right: none;
+        margin-right: 15px;
+        padding-right: 15px;
     }
 }
