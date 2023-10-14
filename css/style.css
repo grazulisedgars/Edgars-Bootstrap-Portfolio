@@ -1,7 +1,10 @@
 /* Nav Bar Settings */
+.nav-ul {
+    float: right;
+}
+
 #mainNav {
     background-color: rgb(100, 149, 237);
-    margin-left: auto;
 }
 
 #mainNav a {
