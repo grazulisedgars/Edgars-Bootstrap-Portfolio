@@ -2,13 +2,17 @@
 
 .sectionHeading {
     float: left;
-    border-right: 2px solid blue;
+    border-right: 2px solid rgb(100, 149, 237);
     margin-right: 15px;
     padding-right: 15px;
 }
 
 
 /* Nav Bar Settings */
+.navbar {
+    padding: 0px;
+}
+
 .nav-ul {
     float: right;
 }
@@ -19,6 +23,7 @@
 
 #mainNav a {
     color: white;
+    padding: 20px;
 }
 
 #mainNav a:hover,
@@ -40,8 +45,7 @@ a:focus {
 
 .heroBackground h1 {
     color: white;
-    text-align: end;
-    box-shadow: 20px 20px 40px rgb(100, 149, 237);
+    text-align: start;
 }
 
 /* Work Card Settings */
@@ -51,15 +55,19 @@ a:focus {
     margin-bottom: 30px;
 }
 
+.btn {
+    background-color: rgb(100, 149, 237);
+}
+
+.btn :hover {
+    box-shadow: 5px 20px 40px blue;
+}
+
 /* Skills Section Settings */
 
 .ulFirst {
     padding-left: 0%;
 }
-
-
-
-
 
 /* About Me Section Settings */
 
@@ -79,6 +87,17 @@ a:focus {
     color: white;
     text-align: center;
 }
+
+.footer a {
+    color: white;
+}
+
+.footer a:hover,
+a:focus {
+    color: whitesmoke;
+}
+
+
 
 
 
